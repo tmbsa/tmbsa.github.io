@@ -18,7 +18,13 @@ description: >
 # and never end with a slash. Set it to a blank value if hosting at the
 # root of your server.
 baseurl: "/tmbsa" # the subpath of your site, e.g. /blog/
-url: "http://tmbsa.github.io" # the base hostname & protocol for your site
+
+# Debug Localhost page
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+
+# Github page
+url: "https://tgirard12.github.io" # the base hostname & protocol for your site
+
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
 
@@ -52,6 +58,20 @@ social:
     url: https://facebook.com/people/Tmb-Saint-Aunes/100008222711818
     desc: Le Facebook du TMB Saint Aunes
     share: true
+
+  - name: Twitter
+    icon: twitter
+    username: Tmb-Saint-Aunes
+    url:
+    desc:
+    share: true
+
+  - name: Strava
+    icon: bicycle
+    username: Strava Tmb-Saint-Aunes
+    url: https://www.strava.com/clubs/Tmb-Saint-Aunes
+    desc:
+    share: false
 
 # Social sharing protocols
 # These are for automatically generating sharing metadata for FB and Twitter
