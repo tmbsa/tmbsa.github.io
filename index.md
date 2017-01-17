@@ -16,15 +16,31 @@ Le club est affilié aux fédérations FSGT et FFC
 
 ![Le groupe VTT]({{ site.baseurl | site.github.url }}/assets/2015_12_27_groupe.jpg)
 
+La section Vtt est affilié à la fédération FSGT. Ainsi, nous participons notament aux courses :
 
-## Le vélo de course
+- Le challenge Gardois
+- // TODO
+- Le trophé des 3C
+- Différents Duathlon
+- ...
 
-Nous nous rassemblons plusieurs fois par semaines par petits groupe pour rouler la semaine ou ke week-end :
+Lorsqu'il n'y a pas de courses nous participons aux randonnées organisé dans la région et réalisons des sorties VTT club autour
 
-- Mardi soir : départ Rond point de la Burne à Mauguio à 18H direction Castries pour 1h30: 
-- Mercredi midi: départ le Millénaire vers 11h50 direction Maurin et retourd vers 14h: 
-- Jeudi soir : départ Rond point de la Burne à Mauguio à 18H direction Castries pour 1h30:
 
+## La Route
+
+Nous participons aux courses affiliés FFC et FFGT :
+
+// TODO url FFC
+// TODO url FFGT
+
+
+Nous nous rassemblons plusieurs fois par semaines par petits groupes pour rouler la semaine ou le week-end :
+
+- Mardi soir : départ Rond point de la Burne à Mauguio à 18H *(en été uniquement)* 
+- Mardi midi: départ le Millénaire vers 11h50 direction Maurin et retourd vers 14h: 
+- Jeudi soir : départ Rond point de la Burne à Mauguio à 18H *(en été uniquement)* 
+- Samedi midi : départ Gendarmerie de Maugio 8h30 direction Sussargues
  
 ## Les stages VTT et route
 
@@ -36,4 +52,5 @@ Exemple de stages réalisés :
 - VTT : course La Lozérienne
 - VTT : Valence => Gap
 
-- Route : ...
+- Route : Costa Brava
+- Route : Côte d'Azur

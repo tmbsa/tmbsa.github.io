@@ -9,7 +9,7 @@ exclude:
 
 # Site settings
 title: Team Mountain Bike St Aunes
-subtitle: "Le site officiel du TMBSA, clucb de VTT et route de Saint Aunes"
+subtitle: Le site officiel du TMBSA, club de VTT et route de Saint Aunes.
 email: tmbsaintaunes@gmail.com
 name: TMBSA
 description: >
@@ -27,6 +27,7 @@ url: "https://tgirard12.github.io" # the base hostname & protocol for your site
 
 cover: "/assets/header_image.jpg"
 logo: "/assets/logo.png"
+ne_jetez_plus: "/assets/ne_jetez_plus.png"
 
 # Build settings
 markdown: kramdown
