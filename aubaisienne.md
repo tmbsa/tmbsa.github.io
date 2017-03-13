@@ -1,6 +1,7 @@
 ---
 layout: page
 title: l'Aubaisienne 2016
+order: 2
 ---
 
 ## L'Aubaisienne 2016 - Rando VTT - 26 juin 
