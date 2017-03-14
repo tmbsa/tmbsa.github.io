@@ -5,8 +5,6 @@ title: 26 juin 2016 - l'Aubaisienne - Rando VTT
 category: Aubaisienne
 ---
 
-## L'Aubaisienne
-
 - 3 distances possibles : 40km 30km et 15km 
 - Inscriptions à partir de 8h00 
 - Dernier départ 10h00
@@ -14,3 +12,4 @@ category: Aubaisienne
 - Du beau VTT comme on l’aime dans la région
 
 ![Aubaisienne 2016]({{ site.baseurl | site.github.url }}/assets/2016_06_26_flyer_rando_aubais.jpg)
+
