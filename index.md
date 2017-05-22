@@ -43,9 +43,9 @@ Nous participons aux courses affiliés FFC et FFGT :
 
 Nous nous rassemblons plusieurs fois par petits groupes pour rouler la semaine ou le week-end en fonction des disponibilités de chacun :
 
-- Mardi soir : départ Rond point de la Burne à Mauguio à 18H *(en été uniquement)* 
+- Mardi soir : départ de la Gendarmerie de Mauguio à 18h, ou de la gare de Baillargues à 18h10 *(en été uniquement)* 
 - Mardi ou mercredi midi : départ le Millénaire vers 11h50 direction Maurin et retour vers 14h: 
-- Jeudi soir : départ parking de la Gendarmerie de Mauguio à 18H *(en été uniquement)* 
+- Jeudi soir : départ de la Gendarmerie de Mauguio à 18h, ou de la gare de Baillargues à 18h10 *(en été uniquement)* 
 - Samedi midi : départ Gendarmerie de Maugio 8h30 direction Sussargues
  
 {% include page_divider.html %}
