@@ -39,18 +39,6 @@ Pour plus de détails, contactez nous par mail : <a href="mailto:tmbsaintaunes@g
 - [Bulletin d'inscription papier]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_inscription.jpg){:target="_blank"}
 - [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_reglement.jpg){:target="_blank"}
 
-
-{% include page_divider.html %}
-
-
-## Pré-inscription en ligne
-
-Pré-inscription en ligne (formulaire ci-dessous) : [Google Form](https://goo.gl/forms/gOTMNfgfyn7TJlxr2)
-
-<div>
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSflNLP8CC2Dx6CtyfZlddNzmtgRkyDR9XHrleTIPhTEIpN_mw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
-</div>
-
 <br>
 
 L'équipe du Team Mountain Bike St Aunes
