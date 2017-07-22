@@ -7,7 +7,7 @@ order: 2
 Cette année, le Team Mountain Bike St Aunes a organisé la première édition du Grand Prix de Saint Aunes.  
 La course c'est déroulée le **5 juin 2017 à 9h** à Saint Aunes.
 
-Voici les résultats de l'épreuve : 
+Voici les résultats de l'épreuve :
 
 - [Classement détaillé]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_resultats.pdf){:target="_blank"}
 
