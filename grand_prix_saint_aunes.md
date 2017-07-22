@@ -4,8 +4,12 @@ title: Grand Prix de St-Aunes
 order: 2
 ---
 
-Cette année, le Team Mountain Bike St Aunes organise la première édition du Grand Prix de Saint Aunes.  
-La course aura aura le **5 juin 2017 à 9h** à Saint Aunes.
+Cette année, le Team Mountain Bike St Aunes a organisé la première édition du Grand Prix de Saint Aunes.  
+La course c'est déroulée le **5 juin 2017 à 9h** à Saint Aunes.
+
+Voici les résultats de l'épreuve : 
+
+- [Classement détaillé]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_resultats.pdf){:target="_blank"}
 
 
 ## Détail de la Course : 
@@ -26,17 +30,6 @@ Non licencié FSGT (supplément 5€ licence FSGT journalière)
 {% include page_divider.html %}
 
 
-## Finalisation de l'inscription
-
-N'oubliez pas d'envoyer votre certificat médical et licence par mail à <a href="mailto:tmbsaintaunes@gmail.com">tmbsaintaunes@gmail.com</a>
-
-Les paiements peuvent se faire :
- - Par chèque à l'ordre du TMBSA à l'adresse suivante : Jérome WYSZYNSKI - 4 rue du Cers - 34130 SAINT AUNES
- - Paiement sur place le jour de la course
-
-Pour plus de détails, contactez nous par mail : <a href="mailto:tmbsaintaunes@gmail.com">tmbsaintaunes@gmail.com</a>
-
-- [Bulletin d'inscription papier]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_inscription.jpg){:target="_blank"}
 - [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2017_05_grand_prix_saint_aunes_reglement.jpg){:target="_blank"}
 
 <br>
