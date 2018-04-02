@@ -3,7 +3,7 @@ layout: home_page
 order: 0
 ---
 
-## Le club
+# Le club
 
 Le Team Mountain Bike Saint Aunes, association loi 1901 existe depuis 1998.  
 Il regroupe plus de 40 passionnés de VTT et vélo de route la semaine et le week-end.  
@@ -20,7 +20,6 @@ Le club est affilié aux fédérations FSGT et FFC
 La section Vtt est affilié à la fédération FSGT. Ainsi, nous participons notament aux courses :
 
 - Le challenge Gardois
-- // TODO
 - Le trophé des 3C
 - Différents Duathlon
 - ...
