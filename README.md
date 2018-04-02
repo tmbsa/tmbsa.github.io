@@ -24,3 +24,28 @@ Fish :
 ## License
 
 MIT. See [LICENSE.MD](https://github.com/tgirard12/tmbsa/blob/master/LICENSE.md).
+
+
+
+TODO 
+- Affiche + site internet + tel, renseignement et inscription sur le site + tel didier
+- Pas ch depart
+- Pas puce sur la potence
+
+Réglement : 
+- Si nombre limite d'inscrit limité, inscritpoin sur place pas possible
+-Licence à amener sur Place
+
+
+- Préinscription en ligne
+- Pas de paiement
+
+Site espoir cycmisme Nimois - Course 15 avril sernach à regarder.
+
+Sur le site + AFFICHE
+
+Contact 06.51.96.09.36
+
+Contact Facebook dans le header
+
+Test Insérer page Facebook dnas le Site
