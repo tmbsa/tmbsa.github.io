@@ -13,6 +13,6 @@ La course se deroulera le **Dimanche 20 mai 2018** à Saint Aunes.
 Le départ sera donné Avenue Robert Bassaget à 9h.
 
 
-[Les inscriptions et tous les détails sont disponibles ici]({{ "/grand_prix_saint_aunes" }})  
+[Les inscriptions et tous les détails sont disponibles ici]({{ "/grand_prix_saint_aunes" | absolute_url }})  
 
 ![Grand Prix de Saint Aunes]({{ "/assets/2018_05_grand_prix_saint_aunes.jpg" | absolute_url }}){:target="_blank"}
