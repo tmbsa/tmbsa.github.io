@@ -38,7 +38,7 @@ Non licencié FSGT (supplément 5€ licence FSGT journalière)
 
 - [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2018_grand_prix_saint_aunes_reglement.pdf){:target="_blank"}
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedml8lUrNTOPQdY_C_66CqdSF1S07PVUuCUTmUD6Rwphm3rw/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedml8lUrNTOPQdY_C_66CqdSF1S07PVUuCUTmUD6Rwphm3rw/viewform?embedded=true" width="1280" height="1280" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
 
 <br>
 
