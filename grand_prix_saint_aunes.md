@@ -25,11 +25,9 @@ Le départ sera donné Avenue Robert Bassaget à 9h.
 
 ## Tarif
 
-Licencié FSGT : 
- - Seniors : 8€
+Licencié FSGT : 8€
 
-Non licencié FSGT (supplément 5€ licence FSGT journalière)
- - Seniors : 13€
+Non licencié FSGT (supplément 5€ licence FSGT journalière) : 13€
  
 {% include page_divider.html %}
 
