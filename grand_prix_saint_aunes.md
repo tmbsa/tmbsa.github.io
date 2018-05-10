@@ -11,6 +11,8 @@ La course se deroulera le **Dimanche 20 mai 2018** à Saint Aunes.
 
 Le départ sera donné Avenue Robert Bassaget à 9h.
 
+##  /!\ Attention, course limité à 80 participants, prè-inscrits prioritaires /!\
+
 ![Grand Prix de Saint Aunes]({{ "/assets/2018_05_grand_prix_saint_aunes.jpg" | absolute_url }}){:target="_blank"}
 
 <br>
@@ -25,9 +27,9 @@ Le départ sera donné Avenue Robert Bassaget à 9h.
 
 ## Tarif
 
-Licencié FSGT : 8€
+Licencié FSGT : **8€**
 
-Non licencié FSGT (supplément 5€ licence FSGT journalière) : 13€
+Non licencié FSGT (supplément 5€ licence FSGT journalière) : **13€**
  
 {% include page_divider.html %}
 
