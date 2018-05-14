@@ -31,6 +31,9 @@ Licencié FSGT : **8€**
 
 Non licencié FSGT (supplément 5€ licence FSGT journalière) : **13€**
  
+La course est ouverte à toutes les catégories à partir de Juniors.  
+Les catégories Minimes et Cadets ne peuvent pas participer à la course.
+ 
 {% include page_divider.html %}
 
 
