@@ -11,9 +11,9 @@ La course se deroulera le **Dimanche 20 mai 2018** à Saint Aunes.
 
 Le départ sera donné Avenue Robert Bassaget à 9h.
 
-##  /!\ Attention, course limitée à 80 participants, prè-inscrits prioritaires /!\
+**Les pré-inscritptions sont terminées, possibilitée de s'inscrire sur place avant la course dans la limite des places disponibles.**
 
-le 19 mai à 12h00, il reste **20** places.
+le 19 mai à 20h00, il reste **20** places.
 
  - [Liste des pré-inscrits]({{ "/assets/2018_grand_prix_saint_aunes_inscriptions.pdf" | absolute_url }}){:target="_blank"}{:target="_blank"}
 
@@ -40,14 +40,7 @@ Les catégories Minimes et Cadets ne peuvent pas participer à la course.
  
 {% include page_divider.html %}
 
-
-## Pré-Insciption en ligne
-
 - [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2018_grand_prix_saint_aunes_reglement.pdf){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSedml8lUrNTOPQdY_C_66CqdSF1S07PVUuCUTmUD6Rwphm3rw/viewform?embedded=true" width="760" height="1280" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
-
-<br>
 
 Paiement et présentation de la licence ou du certificat médical obligatoire lors du retrait du dossard avant la course.
 
