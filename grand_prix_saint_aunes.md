@@ -13,7 +13,7 @@ Le départ sera donné Avenue Robert Bassaget à 9h.
 
 ##  /!\ Attention, course limitée à 80 participants, prè-inscrits prioritaires /!\
 
-le 18 mai à 19h30, il reste **24** places.
+le 19 mai à 12h00, il reste **20** places.
 
  - [Liste des pré-inscrits]({{ "/assets/2018_grand_prix_saint_aunes_inscriptions.pdf" | absolute_url }}){:target="_blank"}{:target="_blank"}
 
