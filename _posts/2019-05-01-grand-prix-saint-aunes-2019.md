@@ -6,7 +6,7 @@ category: Courses
 tags: [Courses, Route]
 ---
 
-Pour la deuxième année consécutive, 
+Pour la 3ème année consécutive, 
 le Team Mountain Bike St Aunes organise le Grand Prix de Saint Aunes.  
 La course se deroulera le **Dimanche 9 Juin 2019** à Saint Aunes.
 

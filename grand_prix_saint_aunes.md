@@ -4,7 +4,7 @@ title: Grand Prix de Saint-Aunes
 order: 2
 ---
 
-le Team Mountain Bike St Aunes organise le **Grand Prix de Saint Aunes**.  
+le Team Mountain Bike St Aunes organise la 3ème édition du **Grand Prix de Saint Aunes**.  
 
 La course se deroulera le **Dimanche 9 Juin 2019** à Saint Aunes.
 
