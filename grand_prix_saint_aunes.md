@@ -12,7 +12,9 @@ Le départ sera donné Avenue Robert Bassaget à 9h.
 
 ##  /!\ Attention, course limitée à 80 participants, prè-inscrits prioritaires /!\
 
-le 04 juin à 14h, il reste **35** places.
+##  Fin des pré-inscriptions vendredi 7 juin à 21h
+
+le 06 juin à 14h, il reste **15** places.
 
 - [Liste des pré-inscrits]({{ site.baseurl | site.github.url }}/assets/2019_grand_prix_saint_aunes_inscriptions.pdf){:target="_blank"}{:target="_blank"}
 
