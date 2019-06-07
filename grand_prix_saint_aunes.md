@@ -10,11 +10,8 @@ La course se deroulera le **Dimanche 9 Juin 2019** à Saint Aunes.
 
 Le départ sera donné Avenue Robert Bassaget à 9h.
 
-##  /!\ Attention, course limitée à 80 participants, prè-inscrits prioritaires /!\
-
-##  Fin des pré-inscriptions vendredi 7 juin à 21h
-
-le 07 juin à 16h, il reste **10** places.
+Les pré-inscriptions sont terminées. 
+Pour les coureurs qui ne se sont pas pré-inscrits, vous pouvez appeler Didier Roux au 06.51.96.09.36 pour vérifier s'il reste des places disponibles.
 
 - [Liste des pré-inscrits]({{ site.baseurl | site.github.url }}/assets/2019_grand_prix_saint_aunes_inscriptions.pdf){:target="_blank"}{:target="_blank"}
 
@@ -40,12 +37,7 @@ Les catégories Minimes et Cadets ne peuvent pas participer à la course.
  
 {% include page_divider.html %}
 
-
-## Pré-Insciption en ligne
-
 - [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2019_grand_prix_saint_aunes_reglement.pdf){:target="_blank"}
-
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc5CU_pV0DNbnK1r5mlAo566G8-VxcJKDZ9o5mUMjyJepjMIQ/viewform?embedded=true" width="640" height="2755" frameborder="0" marginheight="0" marginwidth="0">Chargement en cours...</iframe>
 
 <br>
 
