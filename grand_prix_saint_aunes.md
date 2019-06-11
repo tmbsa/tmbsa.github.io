@@ -4,44 +4,19 @@ title: Grand Prix de Saint-Aunes
 order: 2
 ---
 
-le Team Mountain Bike St Aunes organise la 3ème édition du **Grand Prix de Saint Aunes**.  
+Pour la 3è année, le Team Mountain Bike St Aunes a organisé le **Grand Prix de Saint Aunes**.  
 
-La course se deroulera le **Dimanche 9 Juin 2019** à Saint Aunes.
-
-Le départ sera donné Avenue Robert Bassaget à 9h.
-
-Les pré-inscriptions sont terminées. 
-Pour les coureurs qui ne se sont pas pré-inscrits, vous pouvez appeler Didier Roux au 06.51.96.09.36 pour vérifier s'il reste des places disponibles.
-
-- [Liste des pré-inscrits]({{ site.baseurl | site.github.url }}/assets/2019_grand_prix_saint_aunes_inscriptions.pdf){:target="_blank"}{:target="_blank"}
+Merci à tous les coureurs d'être venu et à l'année prochaine.
 
 ![Grand Prix de Saint Aunes]({{ site.baseurl | site.github.url }}/assets/2019_05_grand_prix_saint_aunes.png){:target="_blank"}
 
 <br>
 
-## Détail de la Course : 
+## Résultat de la course 
 
-![Détail du parcours]({{ site.baseurl | site.github.url }}/assets/2019_05_grand_prix_saint_aunes_circuit.png){:target="_blank"} 
-
-<br>
-
-
-## Tarif
-
-Licencié FSGT : **8€**
-
-Non licencié FSGT (supplément 5€ licence FSGT journalière) : **13€**
- 
-La course est ouverte à toutes les catégories à partir de Juniors.  
-Les catégories Minimes et Cadets ne peuvent pas participer à la course.
- 
-{% include page_divider.html %}
-
-- [Réglement de la course]({{ site.baseurl | site.github.url }}/assets/2019_grand_prix_saint_aunes_reglement.pdf){:target="_blank"}
-
-<br>
-
-Paiement et présentation de la licence ou du certificat médical obligatoire lors du retrait du dossard avant la course.
+- [Classement Scratch]({{ "/assets/2019 Grand Prix de Saint Aunes - Scratch.pdf" | absolute_url }}){:target="_blank"}
+- [Classement par Catégorie]({{ "/assets/2019 Grand Prix de Saint Aunes - Catégorie.pdf" | absolute_url }}){:target="_blank"}
+- [Classement Championnat Départemental]({{ "/assets/2019 Grand Prix de Saint Aunes - Championnat Départemental.pdf" | absolute_url }}){:target="_blank"}
 
 <br>
 
