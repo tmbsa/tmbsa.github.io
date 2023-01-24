@@ -3,7 +3,7 @@ GEM
   specs:
     addressable (2.5.0)
       public_suffix (~> 2.0, >= 2.0.2)
-    asciidoctor (1.5.5)
+    asciidoctor (2.0.18)
     colorator (1.1.0)
     ffi (1.9.18)
     forwardable-extended (2.6.0)
